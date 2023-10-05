@@ -3,6 +3,8 @@ about bookholics
 this is simple library management project which keeps all transaction which are done library like book_issue, book_return etc..
 the additional feature of project it'll generate the library card.
 
+Library management system is a project which aims in developing a computerizedsystem to maintain all the daily work of library .This project has many featureswhich are generally not availiable in normal library management systems likefacility of user login and a facility of teachers login .It also has a facility of adminlogin through which the admin can monitor the whole system .It also has facilityof an online notice board where teachers can student can put up information aboutworkshops or seminars being held in our colleges or nearby colleges and librarianafter proper verification from the concerned institution organizing the seminar canadd it to the notice board . 
+
 this project made up with following framework
 1) Qt framework for gui 
 2) c++ for backend functionality
